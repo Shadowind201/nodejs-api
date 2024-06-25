@@ -1,5 +1,17 @@
 {
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "name": "nodejs-api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC"
 }
